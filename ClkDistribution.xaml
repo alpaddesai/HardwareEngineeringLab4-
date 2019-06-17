@@ -1,0 +1,45 @@
+﻿<Window x:Class="HardwareEngineeringLab4_.ClkDistribution"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HardwareEngineeringLab4_"
+        mc:Ignorable="d"
+        Title="ClkDistribution" Height="541.659" Width="1145.746" MaxWidth="1145" MaxHeight="541">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="Black" Offset="0"/>
+            <GradientStop Color="White" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Grid Margin="0,0,2,2">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="397*"/>
+            <ColumnDefinition Width="153*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="23*"/>
+            <RowDefinition Height="35*"/>
+        </Grid.RowDefinitions>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black" Offset="0"/>
+                <GradientStop Color="{DynamicResource {x:Static SystemColors.ActiveCaptionColorKey}}" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="448" Width="595" Grid.RowSpan="2">
+            <TextBlock.Background>
+                <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.ControlLightLightColorKey}}"/>
+            </TextBlock.Background><Run Text="Memory categories include dynamic random access memory (DRAM), SDRAM is synchronous DRAM, the operation is synchronized to an external clock for high speed operation"/><LineBreak/><Run FontWeight="Bold" Text="1G DDR3 SDRAM:  "/><LineBreak/><Run Text="Command pins are RAS (Row Address Strobe) , CAS (Column Address Strobe), WE (Write enable). CS (Chip Selector), CKE (Clock enable), RESET (Device reset) ODT (on die termination). A pin called ZQ is provided to calibrate the impedance termination of the output drivers.  A[11:0] is the Address pins for memory array, BA[2:0] is bank selection, DQ[0:15] pins are the data interface, and DQS and DQS# are assigned as follows: LDQ/LDQ# are the lower 8 bits of the DQ, DQ[0:7] and UDQ/UDQ# are the upper 8 bits of DQ, DQ[8:15]. The peripheral ckt consists of input buffers, command decoder, internal voltage generator, DLL, DQ,RX,DQ TX, serial to parallel and parallel to serial conversion circuits. "/><LineBreak/><Run FontWeight="Bold" Text="Operation: "/><LineBreak/><Run Text="Command from the MCU is buffered goes to the command controller, the command decoder generates internal control signals based on the command from the MCU. The differential CLK is used for synchronous control of command and input DLL, the DLL controls the data output. Internal DRAM uses parallel data processing to achieve high BW operation, so there is a serial to parallel and parallel to serial conversion between the inner DRAM and outer DRAM.  "/><Run FontWeight="Bold" Text="Timing Diagram: "/><Run Text="The ACT is issued first followed by a RD/WT. The data is output at the rising and falling edges of clk hence double data rate.  The rising edge of the DQS (strobe) should be aligned to the rising edge of CK. "/><LineBreak/><Run Text="Internal Operation: "/><LineBreak/><Run Text="ACTIVE, PRECHARGE, WRITE and READ. The selected WL is enabled and disabled, The received data on the DQ RX line is parallelized by the serial to parallel ckt and transferred to the bank using GIOs(Global I/O lines), The transferred data is stored in the cell through the WRITE driver and bit line sense amplifier (BLSA), the stored data in the memory cell is amplified by the BLSA and the  main amplifier within the bank. This data is provided to the parallel to serial ckt by the GIOs.  The transferred data is aligned and serialized in the parallel to serial ckt. The serialized data is outputted synchronous to DCLK.   The internal operation speed is half the output data rate for DDR1, if data rate is 800Mb/s the internal data rate is 400Mb/s"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="610,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="446" Width="490" Background="{DynamicResource {x:Static SystemColors.ControlLightLightBrushKey}}" Grid.RowSpan="2" Grid.ColumnSpan="2"><Run Text="The output phase and frequency of a controllable oscillator is synchronized by a PLL to match the output phase and frequency of a reference oscillator.  Functional blocks include: "/><LineBreak/><Run Text="* Voltage controlled oscillator * Phase detector  * Low pass filter * Feedback divider. "/><LineBreak/><Run/><LineBreak/><Run Text="The input to the phase detector is (1) Reference frequency (2) output of the VCO post the feedback divider. To maintain synchronization the phase detector generates an error signal "/><LineBreak/><Run Text="that is processed by the filter which provides a voltage input to the VCO. An increase in phase error controls the VCO to converge and minimize the phase error.  At every rising edge of the reference frequency (which can be generated by an oscillator)  the phase comparison by the phase detector occurs. The output of the phase detector produces a pulsed error voltage whose pulse width is equal to the difference in the phases of the two signals. The low pass filter processes the pulsed error voltage to create a dc voltage for the VCO.   The VCO modifies the frequency to match the phase of the reference oscillator."/><LineBreak/><Run Text=" The phase detector is a transducer that converts a frequency difference to a voltage which is passed through a low pass filter.  A common application is the multiplication of the reference frequency, this is accomplished by placing a frequency divider in the feedback path of the loop.  Critical design considerations include timing jitter, loop stability, noise immunity and architecture. The sensitivity of the PLL to noise on the supply, jitter on the output , phase noise and frequency tuning range width, linear modulation depends on the characteristics of he VCO. Types of VCOs include:  * Ring oscillator * Differential ring oscillator * Multivibrator * LC resonance oscillator.  Multivibrators provide a wide frequency range and high speed operation, the LC resonator is the most popular VCO implementation."/><LineBreak/><Run Text="The LC resonator uses a feedback mechanism with an transistor amplifier (that provides gain)  to start and maintain the oscillation. It's a Vin, amplifier, Vout where the output is then connected back to the input. "/><LineBreak/><Run Text="The reference source determines the stability an accuracy of the synthesized signal. However it also contributes to phase noise. "/><LineBreak/><Run/><LineBreak/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><InlineUIContainer>
+                <Label
+        Width="432" VerticalAlignment="Top" Height="29" HorizontalAlignment="Left" Content="Reference: High Bandwidth Memory Interfaces by Kim Chulwoo, Lee Hyun-Woo" Background="{DynamicResource {x:Static SystemColors.ControlLightBrushKey}}"/>
+            </InlineUIContainer><InlineUIContainer>
+                <Label
+        Width="432" VerticalAlignment="Top" Height="29" HorizontalAlignment="Left" Content="Reference: High Bandwidth Memory Interfaces by Kim Chulwoo, Lee Hyun-Woo" Background="{DynamicResource {x:Static SystemColors.ControlLightBrushKey}}"/>
+            </InlineUIContainer></TextBlock>
+        <Label Content="Reference: Phase locked loop engineering handbook for ICs, Stanley J Goldman" HorizontalAlignment="Left" VerticalAlignment="Top" Height="29" Width="432" Background="{DynamicResource {x:Static SystemColors.ControlLightBrushKey}}" Grid.ColumnSpan="2" Margin="610,254,0,0" Grid.Row="1"/>
+        <Label Content="Reference: High Bandwidth Memory Interfaces by Kim Chulwoo, Lee Hyun-Woo" HorizontalAlignment="Left" VerticalAlignment="Top" Height="29" Width="432" Background="{DynamicResource {x:Static SystemColors.ControlLightBrushKey}}" Margin="10,256,0,0" Grid.Row="1"/>
+
+    </Grid>
+</Window>
