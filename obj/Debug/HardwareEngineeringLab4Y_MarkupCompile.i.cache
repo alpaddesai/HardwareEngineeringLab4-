@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\
+C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Debug\
 HardwareEngineeringLab4_
 none
 false
-TRACE
+DEBUG;TRACE
 C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\App.xaml
 8359966770
 
@@ -16,5 +16,5 @@ C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\App.
 13-1505183044
 ClkDistribution.xaml;DevelopmentSuiteTool.xaml;FPGA Design.xaml;MainWindow.xaml;OpAmplifiers.xaml;PowerSupplyRegulators.xaml;RFDAC.xaml;Understanding.xaml;
 
-False
+True
 
