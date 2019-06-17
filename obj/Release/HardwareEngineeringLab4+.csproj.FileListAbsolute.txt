@@ -26,3 +26,4 @@ C:\Users\ADG\source\repos\HardwareEngineeringLab4+\HardwareEngineeringLab4+\obj\
 C:\Users\ADG\source\repos\HardwareEngineeringLab4+\HardwareEngineeringLab4+\obj\Release\HardwareEngineeringLab4+.csproj.CoreCompileInputs.cache
 C:\Users\ADG\source\repos\HardwareEngineeringLab4+\HardwareEngineeringLab4+\obj\Release\HardwareEngineeringLab4+.exe
 C:\Users\ADG\source\repos\HardwareEngineeringLab4+\HardwareEngineeringLab4+\obj\Release\HardwareEngineeringLab4+.pdb
+C:\Users\ADG\source\repos\HardwareEngineeringLab4+\HardwareEngineeringLab4+\obj\Release\HardwareEngineeringLab4+.csprojAssemblyReference.cache

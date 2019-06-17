@@ -52,7 +52,7 @@ namespace HardwareEngineeringLab4_ {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/HardwareEngineeringLab4+;component/understanding.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/HardwareEngineeringLab4Y;component/understanding.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\Understanding.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

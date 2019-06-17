@@ -68,7 +68,7 @@ namespace HardwareEngineeringLab4_ {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/HardwareEngineeringLab4+;component/fpga%20design.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/HardwareEngineeringLab4Y;component/fpga%20design.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\FPGA Design.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

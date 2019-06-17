@@ -52,7 +52,7 @@ namespace HardwareEngineeringLab4_ {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/HardwareEngineeringLab4+;component/opamplifiers.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/HardwareEngineeringLab4Y;component/opamplifiers.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\OpAmplifiers.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
