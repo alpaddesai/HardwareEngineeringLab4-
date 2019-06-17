@@ -14,7 +14,7 @@ in https://github.com/alpaddesai/HardwareEngineeringLab4-/releases/tag/1v for de
 ## Memory and Clock Distribution
 ![image](ClkDistribution.png)
 
-## RF and Antenna 
+## RF 
 ![image](RFCkt.png)
 
 ## Development Suite
