@@ -64,11 +64,11 @@
     <Compile Include="PowerSupplyRegulators.xaml.cs">
       <DependentUpon>PowerSupplyRegulators.xaml</DependentUpon>
     </Compile>
-    <Compile Include="RFDAC.xaml.cs">
-      <DependentUpon>RFDAC.xaml</DependentUpon>
-    </Compile>
     <Compile Include="Understanding.xaml.cs">
       <DependentUpon>Understanding.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WirelessRF.xaml.cs">
+      <DependentUpon>WirelessRF.xaml</DependentUpon>
     </Compile>
     <Page Include="ClkDistribution.xaml">
       <SubType>Designer</SubType>
@@ -105,11 +105,11 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="RFDAC.xaml">
+    <Page Include="Understanding.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Understanding.xaml">
+    <Page Include="WirelessRF.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

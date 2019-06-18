@@ -30,29 +30,29 @@ C:\Users\ADG\source\repos\HardwareEngineeringLab4+\HardwareEngineeringLab4+\obj\
 C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\bin\Release\HardwareEngineeringLab4Y.exe.config
 C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\bin\Release\HardwareEngineeringLab4Y.exe
 C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\bin\Release\HardwareEngineeringLab4Y.pdb
-C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\HardwareEngineeringLab4+.csprojAssemblyReference.cache
-C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\ClkDistribution.baml
-C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\DevelopmentSuiteTool.baml
-C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\FPGA Design.baml
-C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\MainWindow.baml
-C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\OpAmplifiers.baml
-C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\PowerSupplyRegulators.baml
-C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\RFDAC.baml
-C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\Understanding.baml
 C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\ClkDistribution.g.cs
 C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\DevelopmentSuiteTool.g.cs
 C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\FPGA Design.g.cs
 C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\MainWindow.g.cs
 C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\OpAmplifiers.g.cs
 C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\PowerSupplyRegulators.g.cs
-C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\RFDAC.g.cs
 C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\Understanding.g.cs
+C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\WirelessRF.g.cs
 C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\App.g.cs
 C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\HardwareEngineeringLab4Y_MarkupCompile.cache
 C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\HardwareEngineeringLab4Y_MarkupCompile.lref
+C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\ClkDistribution.baml
+C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\DevelopmentSuiteTool.baml
+C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\FPGA Design.baml
+C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\MainWindow.baml
+C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\OpAmplifiers.baml
+C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\PowerSupplyRegulators.baml
+C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\Understanding.baml
+C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\WirelessRF.baml
 C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\HardwareEngineeringLab4Y.g.resources
 C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\HardwareEngineeringLab4_.Properties.Resources.resources
 C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\HardwareEngineeringLab4+.csproj.GenerateResource.cache
 C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\HardwareEngineeringLab4+.csproj.CoreCompileInputs.cache
 C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\HardwareEngineeringLab4Y.exe
 C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\HardwareEngineeringLab4Y.pdb
+C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Release\HardwareEngineeringLab4+.csprojAssemblyReference.cache

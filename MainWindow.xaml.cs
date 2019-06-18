@@ -27,9 +27,7 @@ namespace HardwareEngineeringLab4_
 
         private void PowerSupplies_Click(object sender, RoutedEventArgs e)
         {
-          //  PowerRegulators PowerRegulatorsObject = new PowerRegulators();
-          //  PowerRegulatorsObject.Show();
-
+ 
             PowerSupplyRegulators PowerSupplyRegulatorsObject = new PowerSupplyRegulators();
             PowerSupplyRegulatorsObject.Show();
         }
@@ -71,8 +69,8 @@ namespace HardwareEngineeringLab4_
 
         private void RF_Click(object sender, RoutedEventArgs e)
         {
-            RFDAC RFDACObject = new RFDAC();
-            RFDACObject.Show();
+            WirelessRF WirelessRFObject = new WirelessRF();
+            WirelessRFObject.Show();
         }
 
         private void FPGA_Design_Click(object sender, RoutedEventArgs e)

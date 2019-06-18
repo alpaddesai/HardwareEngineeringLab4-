@@ -15,18 +15,18 @@ using System.Windows.Shapes;
 namespace HardwareEngineeringLab4_
 {
     /// <summary>
-    /// Interaction logic for RFDAC.xaml
+    /// Interaction logic for WirelessRF.xaml
     /// </summary>
-    public partial class RFDAC : Window
+    public partial class WirelessRF : Window
     {
-        public RFDAC()
+        public WirelessRF()
         {
             InitializeComponent();
-
         }
 
-        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        private void RichTextBox_TextChanged(object sender, TextChangedEventArgs e)
         {
+
         }
     }
 }
