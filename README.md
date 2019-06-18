@@ -15,7 +15,7 @@ in https://github.com/alpaddesai/HardwareEngineeringLab4-/releases/tag/1v for de
 ![image](ClkDistribution.png)
 
 ## RF 
-![image](WirelessRF.png)
+![image](WirelessRFImage.png)
 
 ## Development Suite
 ![image](DevelopmentSuiteTool.png)
