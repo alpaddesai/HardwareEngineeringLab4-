@@ -30,26 +30,25 @@ C:\Users\ADG\source\repos\HardwareEngineeringLab4+\HardwareEngineeringLab4+\obj\
 C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\bin\Debug\HardwareEngineeringLab4Y.exe.config
 C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\bin\Debug\HardwareEngineeringLab4Y.exe
 C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\bin\Debug\HardwareEngineeringLab4Y.pdb
-C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Debug\HardwareEngineeringLab4+.csprojAssemblyReference.cache
-C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Debug\ClkDistribution.baml
-C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Debug\DevelopmentSuiteTool.baml
-C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Debug\FPGA Design.baml
-C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Debug\MainWindow.baml
-C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Debug\OpAmplifiers.baml
-C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Debug\PowerSupplyRegulators.baml
-C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Debug\RFDAC.baml
-C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Debug\Understanding.baml
 C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Debug\ClkDistribution.g.cs
 C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Debug\DevelopmentSuiteTool.g.cs
 C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Debug\FPGA Design.g.cs
 C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Debug\MainWindow.g.cs
 C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Debug\OpAmplifiers.g.cs
 C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Debug\PowerSupplyRegulators.g.cs
-C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Debug\RFDAC.g.cs
 C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Debug\Understanding.g.cs
+C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Debug\WirelessRF.g.cs
 C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Debug\App.g.cs
 C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Debug\HardwareEngineeringLab4Y_MarkupCompile.cache
 C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Debug\HardwareEngineeringLab4Y_MarkupCompile.lref
+C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Debug\ClkDistribution.baml
+C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Debug\DevelopmentSuiteTool.baml
+C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Debug\FPGA Design.baml
+C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Debug\MainWindow.baml
+C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Debug\OpAmplifiers.baml
+C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Debug\PowerSupplyRegulators.baml
+C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Debug\Understanding.baml
+C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Debug\WirelessRF.baml
 C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Debug\HardwareEngineeringLab4Y.g.resources
 C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Debug\HardwareEngineeringLab4_.Properties.Resources.resources
 C:\Users\ADG\source\repos\HardwareEngineeringLab4Y\HardwareEngineeringLab4+\obj\Debug\HardwareEngineeringLab4+.csproj.GenerateResource.cache
