@@ -1,7 +1,6 @@
 # HardwareEngineeringLab4+
 
-The project provides an overview embedded systems in an engineering lab. Confidential information is not displayed. Please download the executable
-in https://github.com/alpaddesai/HardwareEngineeringLab4-/releases/tag/1v for details. 
+The project provides an overview embedded systems in an engineering lab. Confidential information is not displayed. Please download the executable in https://github.com/alpaddesai/HardwareEngineeringLab4-/releases for details. 
 
 ![image](MainWindow.png)
 
