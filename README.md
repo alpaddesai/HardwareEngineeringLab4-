@@ -1,6 +1,7 @@
 # HardwareEngineeringLab4+
 
 The project provides an overview embedded systems in an engineering lab. Confidential information is not displayed. Please download the executable in https://github.com/alpaddesai/HardwareEngineeringLab4-/releases for details. 
+Company confidential information is not displayed. All images are either custom by Alpa D Desai or a reference name is included. Copyright protection in process.
 
 ![image](MainWindow.png)
 
