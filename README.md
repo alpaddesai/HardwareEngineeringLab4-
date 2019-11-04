@@ -25,3 +25,6 @@ Company confidential information is not displayed. All images are either custom 
 
 ## Understanding Virtex 4
 ![image](FPGAUnderstanding.png)
+
+## Certificate of Registration
+![image](Certificate_of_registration.png)
