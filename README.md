@@ -27,4 +27,4 @@ Company confidential information is not displayed. All images are either custom 
 ![image](FPGAUnderstanding.png)
 
 ## Certificate of Registration
-![image](Certificate_of_registration.png)
+![image](USCopyrightCertificateofRegistration.png)
