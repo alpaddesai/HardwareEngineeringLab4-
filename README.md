@@ -18,6 +18,7 @@ Company confidential information is not displayed. All images are either custom 
 ![image](WirelessRFImage.png)
 
 ## Development Suite
+## Atmel Studio 
 ![image](DevelopmentSuiteTool.png)
 
 ## FPGA Design 
