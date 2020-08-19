@@ -29,3 +29,6 @@ Company confidential information is not displayed. All images are either custom 
 
 ## Certificate of Registration
 ![image](USCopyrightCertificateofRegistration.png)
+
+
+Further details reference: https://github.com/alpaddesai/SemiConductorSolidStateDevices , https://github.com/alpaddesai/DigitalIC_VLSIDesign , https://github.com/alpaddesai/PCBDesignProcess , https://github.com/alpaddesai/PowerDistributionNetworks , https://github.com/alpaddesai/PowerElectronics , https://github.com/alpaddesai/SystemVerilog , https://github.com/alpaddesai/AnalogDesign , https://github.com/alpaddesai/PCBSignalIntegrity_EEM , https://github.com/alpaddesai/Computer-Networking , https://github.com/alpaddesai/ICPackageDesign
