@@ -32,4 +32,4 @@ Further details reference: https://github.com/alpaddesai/EngineeringMathematics,
 Additional details: https://github.com/alpaddesai/SmartGridDesignIdea
 
 ## Certificate of Registration
-![image](CertificateOfRegistration.jpg)
+![image](USCopyrightCertificateofRegistration.png)
