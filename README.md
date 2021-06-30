@@ -31,5 +31,8 @@ Further details reference: https://github.com/alpaddesai/EngineeringMathematics,
 
 Additional details: https://github.com/alpaddesai/SmartGridDesignIdea
 
+## Ethics and Integrity
+![image](EthicsandExcellence.png)
+
 ## Certificate of Registration
 ![image](USCopyrightCertificateofRegistration.png)
