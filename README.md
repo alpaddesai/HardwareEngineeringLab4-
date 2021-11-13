@@ -33,6 +33,3 @@ Additional details: https://github.com/alpaddesai/MSEE_SmartGridDesignIdea , htt
 
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
-
-## Certificate of Registration
-![image](USCopyrightCertificateofRegistration.png)
