@@ -34,5 +34,3 @@ Additional details: https://github.com/alpaddesai/SmartGridDesignIdea , https://
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
-## Admission 
-![image](MSEE.png)
