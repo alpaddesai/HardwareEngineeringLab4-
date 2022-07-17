@@ -32,17 +32,17 @@ Further details reference: https://github.com/alpaddesai/EngineeringMathematics,
 Additional details: https://github.com/alpaddesai/SmartGridDesignIdea , https://github.com/alpaddesai/MSECE_ArchitecturalDesign and https://github.com/alpaddesai/MSEE_EngineeringProjectManagement
 
 ## Awards
-###•	Received “Employee Recognition Awards” at Teradyne Inc. April 2010
-###•	Received “Teradyne Employee Core Value Award” at Teradyne Inc. Dec 2006
-###•	Winner of McCallum Graduate School of Business Leadership Scholarship Award 2008 – 2009
-###•	Received “SWE Outstanding Student award 2004-2005” Society of Women Engineers 
+##•	Received “Employee Recognition Awards” at Teradyne Inc. April 2010
+##•	Received “Teradyne Employee Core Value Award” at Teradyne Inc. Dec 2006
+##•	Winner of McCallum Graduate School of Business Leadership Scholarship Award 2008 – 2009
+##•	Received “SWE Outstanding Student award 2004-2005” Society of Women Engineers 
 
 ## Certifications
-###•	Project Management, East Carolina University, SWE National Conference 2007
-###•	Social Styles Training , Dynamic Communications, High Performance Leadership, Teradyne Inc 2007  
-###•	Cadence Concept HDL; Fundamentals of FPGA Design, Cadence Incisive Verification tools, Teradyne 2007 
-###•  Xilinx Fundamentals of FPGA Design, Teradyne Inc.                   		          2007	
-###•	Emotional Intelligence workshop, Social Styles workshop, Teradyne Inc		               
+##•	Project Management, East Carolina University, SWE National Conference 2007
+##•	Social Styles Training , Dynamic Communications, High Performance Leadership, Teradyne Inc 2007  
+##•	Cadence Concept HDL; Fundamentals of FPGA Design, Cadence Incisive Verification tools, Teradyne 2007 
+##•  Xilinx Fundamentals of FPGA Design, Teradyne Inc.                   		          2007	
+##•	Emotional Intelligence workshop, Social Styles workshop, Teradyne Inc		               
 
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
