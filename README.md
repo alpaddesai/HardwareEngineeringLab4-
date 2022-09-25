@@ -52,5 +52,7 @@ Additional details: https://github.com/alpaddesai/SmartGridDesignIdea , https://
 •	Emotional Intelligence workshop, Social Styles workshop, Teradyne Inc             2007
 
 
+![image](USCopyrightCertificate.png)
+
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
