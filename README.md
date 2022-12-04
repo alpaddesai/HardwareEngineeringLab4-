@@ -54,3 +54,5 @@ Company confidential information is not displayed. All images are either custom 
 
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
+
+Additional details reference https://github.com/alpaddesai/TechnicalProjectManagement2022
