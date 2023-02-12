@@ -38,7 +38,7 @@ Company confidential information is not displayed. All images are either custom 
 
 •	Emotional Intelligence workshop, Social Styles workshop, Teradyne Inc             2007
 
-• Cadence Allegro Editor Certifications                                             2013
+• Cadence Allegro Editor Certification                                              2013
 
 ![image](USCopyrightCertificate.png)
 
